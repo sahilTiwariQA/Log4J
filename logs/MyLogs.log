@@ -1,0 +1,4 @@
+[INFO ] 2020-10-02 00:55:08.396 [main] Log4JDemo - This is Info
+[WARN ] 2020-10-02 00:55:08.404 [main] Log4JDemo - This is Warn
+[ERROR] 2020-10-02 00:55:08.404 [main] Log4JDemo - This is Error
+[FATAL] 2020-10-02 00:55:08.405 [main] Log4JDemo - This is Fatal
